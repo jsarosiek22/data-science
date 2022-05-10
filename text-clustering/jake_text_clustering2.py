@@ -18,7 +18,7 @@ import string
 
 # %%
 #FORMAT TEXT TO COMBINE SUMMARY AND DESCRIPTION FIELDS WITH SPACE IN BETWEEN
-data = pd.read_excel(r'C:\Users\jacobsar\Desktop\bitbucket\ticketsystemanalysis\TicketData.xlsx')
+data = pd.read_excel(r'ticketsystemanalysis\TicketData.xlsx')
 
 
 # %%
